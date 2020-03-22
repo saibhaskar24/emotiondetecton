@@ -6,6 +6,10 @@
  
  Procedure :
  send post request to https://viitattendee.azurewebsites.net/image 
- {
+ 
+ 
+```json
+{
     "image" : "<Base64 encoded image>"
 }
+```
